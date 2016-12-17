@@ -1,7 +1,7 @@
 DMDiskStation
 =============
 
-An iOS framwork to interface with Synology DiskStations
+An iOS framework to interface with Synology DiskStations
 
 ## Purpose
 
